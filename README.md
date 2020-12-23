@@ -2,7 +2,7 @@
 
 [![Yunju Jang's github stats](https://github-readme-stats.vercel.app/api?username=o3o-ovo3)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
-- 🌱 I’m currently learning about Java, Spring, JSP and jQuery ...
+- 🌱 I’m currently learning Java, Spring, JSP and jQuery ...
 
 <!--
 **o3o-ovo3/o3o-ovo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
