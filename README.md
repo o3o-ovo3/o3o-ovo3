@@ -2,7 +2,12 @@
 
 [![Yunju Jang's github stats](https://github-readme-stats.vercel.app/api?username=o3o-ovo3)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
-- 🌱 I’m currently learning Java, Spring, JSP and jQuery ...
+- Java, Spring, JSP 활용 백 엔드 개발자
+
+🌱 현재 관심사
+- 코딩 테스트 준비 [[클릭]](https://github.com/o3o-ovo3/Algorithm-Practice)
+- Spring Framework 학습 [[클릭]](https://github.com/o3o-ovo3/Learn-Spring)
+- 전공 지식 정리 [[클릭]](https://github.com/o3o-ovo3/Tech-Log)
 
 <!--
 **o3o-ovo3/o3o-ovo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
