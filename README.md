@@ -8,8 +8,6 @@
 - 코딩 테스트 준비 [[클릭]](https://github.com/o3o-ovo3/Algorithm-Practice)
 - Spring Framework 학습 [[클릭]](https://github.com/o3o-ovo3/Learn-Spring)
 - 전공 지식 정리 [[클릭]](https://github.com/o3o-ovo3/Tech-Log)
-- Vue.js 독학 [[클릭]](https://github.com/o3o-ovo3/Vue-webgame)
-
 <!--
 **o3o-ovo3/o3o-ovo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
