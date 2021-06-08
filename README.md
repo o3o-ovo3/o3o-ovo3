@@ -2,7 +2,7 @@
 
 [![Yunju Jang's github stats](https://github-readme-stats.vercel.app/api?username=o3o-ovo3)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
-- Java, Spring, JSP 활용 백 엔드 개발자
+- Java, Spring 웹 개발자
 
 🌱 현재 관심사
 - 코딩 테스트 준비 [[클릭]](https://github.com/o3o-ovo3/Algorithm-Practice)
